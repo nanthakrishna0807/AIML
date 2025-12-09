@@ -1,7 +1,5 @@
 - Simple Linear Regression - 
 
-Simple Linear Regression
-
 Overview
 This repository contains the implementation of Simple Linear Regression (SLR) algorithm from scratch.
 
